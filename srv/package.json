@@ -1,0 +1,18 @@
+{
+  "name": "srv",
+  "description": "polyfill service",
+  "scripts": {
+    "start": "node .",
+    "test": "tap test"
+  },
+  "devDependencies": {
+    "spacey-standard": "^3.0.0",
+    "tap": "^8.0.0"
+  },
+  "dependencies": {
+    "mu": "^2.0.3",
+    "mu-tcp": "^1.0.2"
+  },
+  "private": true,
+  "license": "UNLICENSED"
+}

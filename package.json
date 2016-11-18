@@ -1,0 +1,12 @@
+{
+  "name": "polyfill",
+  "version": "0.0.1",
+  "description": "polyfill service",
+  "scripts": {
+    "start": "node srv"
+  },
+  "dependencies": {
+    "pino": "^2.15.0",
+    "polyfill-service": "^3.13.0"
+  }
+}

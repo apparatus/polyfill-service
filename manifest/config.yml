@@ -1,0 +1,6 @@
+polyfill:
+  build: ../system/services/polyfill
+  container_name: polyfill
+  env_file: ./env
+  ports:
+    - "7002:7002"
